@@ -9,6 +9,7 @@ public class FifthTask {
         // Fråga om input i int
         // Spara i en double
         // Skriv ut värdet
+        //------------------------
 
         System.out.println("Hur många gånger sa Samuel L Jackson MF-ordet?");
         int mofo = input.nextInt();
